@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/log4j-1.2-api-2.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-ooxml-4.1.0.jar" sourcepath="C:/Users/User/.m2/repository/org/apache/poi/poi-ooxml/4.1.0/poi-ooxml-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-codec-1.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/ApachePOI/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/ApachePOI/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/ApachePOI/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/ApachePOI/commons-codec-1.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/ApachePOI/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/ApachePOI/commons-compress-1.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
